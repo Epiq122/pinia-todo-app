@@ -31,6 +31,7 @@ input {
   margin-bottom: 15px;
   height: 20px;
   width: 50%;
+  border-radius: 5px;
 }
 button {
   margin-left: 30px;
@@ -41,6 +42,7 @@ button {
   border-radius: 5px;
   width: 15%;
   font-weight: 800;
+  cursor: pointer;
 }
 .alert-div {
   min-height: 25px;

@@ -31,6 +31,7 @@ span {
 .item {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 .content {
   display: flex;
@@ -38,6 +39,7 @@ span {
   justify-content: space-between;
   width: 80vw;
   padding: 5px;
+  border-radius: 5px;
 }
 .completed {
   text-decoration: line-through;

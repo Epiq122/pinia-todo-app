@@ -15,7 +15,9 @@ import TodoList from './TodoList.vue';
 .todo-app {
   padding: 5vh;
   min-height: 100vh;
-  width: 30vw;
-  background-color: #f7f9fc;
+  width: 50vw;
+  background-color: dodgerblue;
+  margin: 0 auto;
+  border-radius: 5px;
 }
 </style>
